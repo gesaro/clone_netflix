@@ -30,7 +30,7 @@ class CartelPrincipal extends StatelessWidget {
               end: Alignment.bottomCenter,
               colors: <Color>[
                 Colors.black38,
-                Colors.blue,
+                Colors.red,
               ],
             ),
           ),
